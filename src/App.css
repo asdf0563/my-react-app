@@ -181,7 +181,8 @@
     right: 0;
     border-right-color: var(--border);
   }
+}
   h2 {
     color: #42b983;
   }
-}
+
